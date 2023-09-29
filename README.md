@@ -6,9 +6,11 @@ Hello everyone, thank you for checking out my work. This is a challenge I wanted
 I started from the basics to refresh my layout design skills, so in this project, you won't find any dynamic details or any functionality, just HTML and CSS. To slightly increase the difficulty, I chose to use the SCSS preprocessor to practice optimized coding based on variables.
 
 You can find the original design provided by Front-end Mentor and my result.
-!! I want to specify that the design did not provide any information regarding text sizes, padding, or other project details, so I made my best judgment. !!
 
-
+### Design by Front-end Mentor
 ![Design by Front-end Mentor.](/design/desktop-design.jpg)
 
+### My Result
 ![My result.](/design/result/Final.png)
+
+!! I want to specify that the design did not provide any information regarding text sizes, padding, or other project details, so I made my best judgment. !!
